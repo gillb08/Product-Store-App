@@ -1,0 +1,15 @@
+C:\Users\windows subsidary\source\repos\ProductStoreAPP\obj\Debug\net6.0\ProductStoreAPP.csproj.AssemblyReference.cache
+C:\Users\windows subsidary\source\repos\ProductStoreAPP\obj\Debug\net6.0\ProductStoreAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows subsidary\source\repos\ProductStoreAPP\obj\Debug\net6.0\ProductStoreAPP.AssemblyInfoInputs.cache
+C:\Users\windows subsidary\source\repos\ProductStoreAPP\obj\Debug\net6.0\ProductStoreAPP.AssemblyInfo.cs
+C:\Users\windows subsidary\source\repos\ProductStoreAPP\obj\Debug\net6.0\ProductStoreAPP.csproj.CoreCompileInputs.cache
+C:\Users\windows subsidary\source\repos\ProductStoreAPP\bin\Debug\net6.0\ProductStoreAPP.exe
+C:\Users\windows subsidary\source\repos\ProductStoreAPP\bin\Debug\net6.0\ProductStoreAPP.deps.json
+C:\Users\windows subsidary\source\repos\ProductStoreAPP\bin\Debug\net6.0\ProductStoreAPP.runtimeconfig.json
+C:\Users\windows subsidary\source\repos\ProductStoreAPP\bin\Debug\net6.0\ProductStoreAPP.dll
+C:\Users\windows subsidary\source\repos\ProductStoreAPP\bin\Debug\net6.0\ProductStoreAPP.pdb
+C:\Users\windows subsidary\source\repos\ProductStoreAPP\obj\Debug\net6.0\ProductStoreAPP.dll
+C:\Users\windows subsidary\source\repos\ProductStoreAPP\obj\Debug\net6.0\refint\ProductStoreAPP.dll
+C:\Users\windows subsidary\source\repos\ProductStoreAPP\obj\Debug\net6.0\ProductStoreAPP.pdb
+C:\Users\windows subsidary\source\repos\ProductStoreAPP\obj\Debug\net6.0\ProductStoreAPP.genruntimeconfig.cache
+C:\Users\windows subsidary\source\repos\ProductStoreAPP\obj\Debug\net6.0\ref\ProductStoreAPP.dll
